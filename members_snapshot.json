@@ -1,0 +1,54 @@
+{
+  "generated_at": "2025-11-22T08:50:07.331766Z",
+  "guilds": [
+    {
+      "id": "1423658735053832275",
+      "name": "status-bot",
+      "icon_url": null,
+      "member_count": 2,
+      "members": [
+        {
+          "id": "688983124868202496",
+          "name": "adityafere.",
+          "discriminator": "0",
+          "global_name": "Aditya",
+          "display_name": "Aditya",
+          "nick": null,
+          "avatar_url": "https://cdn.discordapp.com/avatars/688983124868202496/35960b6e26f674f97a1861801c7ed9a2.png?size=1024",
+          "banner_url": null,
+          "accent_color": 0,
+          "badges": [
+            "hypesquad_balance"
+          ],
+          "status": "offline",
+          "activities": [],
+          "joined_at": "2025-10-03T13:11:32.868000+00:00",
+          "roles": []
+        },
+        {
+          "id": "1423661821428109442",
+          "name": "SImple Utility",
+          "discriminator": "7007",
+          "global_name": null,
+          "display_name": "SImple Utility",
+          "nick": null,
+          "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+          "banner_url": null,
+          "accent_color": null,
+          "badges": [],
+          "status": "offline",
+          "activities": [],
+          "joined_at": "2025-10-03T13:24:23.565000+00:00",
+          "roles": [
+            {
+              "id": "1423661967851389012",
+              "name": "Status-bot",
+              "color": 0,
+              "position": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
